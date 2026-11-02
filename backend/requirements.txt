@@ -1,5 +1,5 @@
-fastapi
-pydantic
+fastapi==0.78.0
+pydantic==1.9.1
 uvicorn
 pymongo
 dnspython
@@ -7,7 +7,7 @@ passlib
 cryptography
 openpyxl
 python-jose
-pydantic[email]
+pydantic[email]==1.9.1
 motor
 python-multipart
 pytest
